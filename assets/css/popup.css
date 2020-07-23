@@ -16,7 +16,7 @@
   -o-transition: all 0.3s;
   transition: all 0.3s;
   z-index: 10;
-  background-color: #ffffff;
+  background-color: #000;
   width: 100%;
   height: 100%;
 }
@@ -61,7 +61,7 @@
   left: 20px;
   font-size: 1.1rem;
   letter-spacing: 0.05rem;
-  color: #3e4146;
+  color: #fff;
   -webkit-transition: all 0.4s;
   -moz-transition: all 0.4s;
   -o-transition: all 0.4s;
@@ -69,7 +69,7 @@
 }
 .pop-up .content .close:hover {
   cursor: pointer;
-  color: #f66867;
+  color: #f9a620;
 }
 .pop-up .content .dots .dot {
   position: absolute;
@@ -81,7 +81,7 @@
   right: -80px;
   width: 160px;
   height: 160px;
-  background-color: #689bf6;
+  background-color: #f9a620;
   -webkit-animation: float 6s ease-in-out infinite;
   -moz-animation: float 6s ease-in-out infinite;
   -o-animation: float 6s ease-in-out infinite;
@@ -100,7 +100,7 @@
   left: -120px;
   width: 240px;
   height: 240px;
-  background-color: #f66867;
+  background-color: #f9a620;
   -webkit-animation: float 8s ease-in-out infinite;
   -moz-animation: float 8s ease-in-out infinite;
   -o-animation: float 8s ease-in-out infinite;
@@ -111,7 +111,7 @@
   right: -50px;
   width: 100px;
   height: 100px;
-  background-color: #ffd84c;
+  background-color: #f9a620;
   -webkit-animation: float 4s ease-in-out infinite;
   -moz-animation: float 4s ease-in-out infinite;
   -o-animation: float 4s ease-in-out infinite;
@@ -119,7 +119,7 @@
 }
 .pop-up .content .title h1 {
   text-align: center;
-  color: #f66867;
+  color: #f9a620;
   text-transform: uppercase;
   font-weight: 900;
   font-size: 2.8rem;
@@ -149,13 +149,13 @@
 }
 .pop-up .content .subscribe h1 {
   font-size: 1.5rem;
-  color: #3e4146;
+  color: #fff;
   line-height: 130%;
   letter-spacing: 0.07rem;
   margin-bottom: 30px;
 }
 .pop-up .content .subscribe h1 span {
-  color: #f66867;
+  color: #f9a620;
 }
 .pop-up .content .subscribe form {
   overflow: hidden;
@@ -189,9 +189,9 @@
   border-color: #3e4146;
 }
 .pop-up .content .subscribe form input[type=submit] {
-  background-color: #8e6ac1;
+  background-color: #f9a620;
   color: #ffffff;
-  border: 1px solid #8e6ac1;
+  border: 1px solid #f9a620;
   -webkit-transition: all 0.4s;
   -moz-transition: all 0.4s;
   -o-transition: all 0.4s;
