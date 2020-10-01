@@ -1,2 +1,2 @@
 # minimilistic_website
-contains the code
+contains the website code
